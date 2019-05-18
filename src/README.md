@@ -1,12 +1,10 @@
 README
 
-I think my solution is fully working. My solution correctly adds and prints
+My solution correctly adds and prints
 students, faculty, subjects, courses and sections. The only extra class I
 included was the UndergradStudent class and I created another class
 because unlike other student types, undergraduates have a student year. All 
 other information for undergraduates is inherited from student and person.
-
-I did not get to the extra credit.
 
 When creating the Person class and the classes that inherit from Person, I made 
 the assumption that after a Person has been created, first name, last name,
