@@ -14,6 +14,3 @@ should be able to change their type, program, advisor and start quarter based
 on my own experience as a student. With the Faculty, I assumed faculty type, 
 building and room were subject to change and included setters.  
 
-I spent around 12 hours on this assignment. Overall, I enjoyed this assignment.
-I found it to be an appropriate difficulty level and time commitment.
-Additionally, I think it helped solidify inheritance and composition. 
