@@ -1,6 +1,6 @@
 README
 
-My solution correctly adds and prints
+My solution adds and prints
 students, faculty, subjects, courses and sections. The only extra class I
 included was the UndergradStudent class and I created another class
 because unlike other student types, undergraduates have a student year. All 
